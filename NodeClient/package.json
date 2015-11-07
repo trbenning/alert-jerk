@@ -1,0 +1,14 @@
+{
+  "name": "NodeAlertClient",
+  "version": "0.0.0",
+  "description": "NodeAlertClient",
+  "main": "app.js",
+  "author": {
+    "name": "Breakaway Development, LLC",
+    "email": "info@breakawaydev.net"
+  },
+  "dependencies": {
+    "azure": "^0.10.6",
+    "winsay": "0.0.5"
+  }
+}
