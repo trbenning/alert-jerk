@@ -4,11 +4,11 @@
   "description": "NodeAlertClient",
   "main": "app.js",
   "author": {
-    "name": "Breakaway Development, LLC",
-    "email": "info@breakawaydev.net"
+    "name": "Todd Benning",
+    "email": "trbpub@gmail.com"
   },
   "dependencies": {
     "azure": "^0.10.6",
-    "winsay": "0.0.5"
+    "winsay": "^0.0.5"
   }
 }

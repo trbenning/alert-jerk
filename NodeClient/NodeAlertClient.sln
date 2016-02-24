@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.23107.0
+VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "NodeAlertClient", "NodeAlertClient.njsproj", "{B4ECE27F-5AC4-4200-8D67-A0410DF7270C}"
 EndProject
@@ -10,6 +10,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		..\.gitattributes = ..\.gitattributes
 		..\.gitignore = ..\.gitignore
 	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsAlertClient", "..\CsAlertClient\CsAlertClient.csproj", "{85EA6550-192E-4363-AA3A-DF4E2A93E369}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{B4ECE27F-5AC4-4200-8D67-A0410DF7270C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B4ECE27F-5AC4-4200-8D67-A0410DF7270C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B4ECE27F-5AC4-4200-8D67-A0410DF7270C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85EA6550-192E-4363-AA3A-DF4E2A93E369}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85EA6550-192E-4363-AA3A-DF4E2A93E369}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85EA6550-192E-4363-AA3A-DF4E2A93E369}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85EA6550-192E-4363-AA3A-DF4E2A93E369}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
